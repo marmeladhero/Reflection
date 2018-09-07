@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppReflection", "ConsoleAppReflection\ConsoleAppReflection.csproj", "{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Debug|x86.ActiveCfg = Debug|x86
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Debug|x86.Build.0 = Debug|x86
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Release|x86.ActiveCfg = Release|x86
+		{0F24F6F4-0B19-47B6-9D2D-2A1960783ECA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61CD4AC2-7F98-4462-86A7-0E852C93C62B}
+	EndGlobalSection
+EndGlobal
